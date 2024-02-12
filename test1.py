@@ -4,3 +4,5 @@ print('Delete your code it is herrendous')
 print('New changes made by Karthik')
 
 print("Guess who is cool?")
+
+print('Why is life so difficult')
