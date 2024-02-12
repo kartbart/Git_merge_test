@@ -22,3 +22,8 @@ print(eda_feat)
 print("Trialing Git Merges")
 print("Please work GitHub")
 print("Why do people like Git so much?")
+
+def calculate_square_area(side_length):
+    return side_length ** 2
+
+print(calculate_square_area(4))
