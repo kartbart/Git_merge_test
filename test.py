@@ -5,3 +5,4 @@ def calculate_triangle_area(base, height):
 print(calculate_triangle_area(5, 10))
 print("Hello World!")
 print("I'm making a change to this file.")
+print("Trialling git merges")
