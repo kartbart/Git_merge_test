@@ -12,3 +12,6 @@ print("Hello World!")
 
 print('Delete your code it is herrendous')
 print('New changes made by rohan')
+
+eda_feat = 6 + 9
+print(eda_feat)
